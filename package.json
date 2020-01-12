@@ -1,0 +1,13 @@
+{
+  "name": "mieke-website",
+  "version": "1.0.0",
+  "description": "Company website for Mieke in de Zorg",
+  "author": "Gideon Spierings",
+  "license": "WTFPL",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
